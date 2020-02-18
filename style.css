@@ -1,1 +1,96 @@
-/* Add your CSS code here */
+*{
+  Font-family: Helvetica,Arial,sans-serif;
+  max-width:700px;
+  margin:auto;
+}
+
+p
+{
+  font-size:12px;
+  margin-left:2em;
+  margin-right:1em;
+  margin-top:10px;
+  
+  
+  
+}
+
+ul 
+{
+font-size: 12px;
+margin-right: 1rem;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+body
+{
+  min-width: 500px;
+  background-color: #e0eeee;
+
+}
+.profileBody
+{
+  display: inline-block;
+  width: 10000000px;
+  height: 700px;
+  padding: 5px;
+  border: 14px solid white;    
+  background-color: white; 
+  margin-bottom: 6px;
+}
+
+#name h1
+{
+  font-weight: normal;
+  margin-left: 0.5em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 10px;
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+
+#name h2
+{
+  font-size: 10px;
+  margin-left:2em;
+  margin-top: 2px;
+  margin-bottom: 12px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-style: italic;
+
+
+}
+
+hr
+{
+  margin-left: 1em;
+  margin-right: 1em;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
