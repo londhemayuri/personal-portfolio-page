@@ -18,7 +18,7 @@ p
 ul 
 {
 font-size: 12px;
-margin-right: 1rem;
+margin-right: 1em;
 margin-top: 10px;
 margin-bottom: 10px;
 }
@@ -32,12 +32,11 @@ body
 .profileBody
 {
   display: inline-block;
-  width: 10000000px;
-  height: 700px;
-  padding: 5px;
-  border: 14px solid white;    
-  background-color: white; 
-  margin-bottom: 6px;
+    background-color: white;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
 }
 
 #name h1
